@@ -1,0 +1,24 @@
+# SecretGuard advanced test file
+# All values are fake and used for testing.
+
+password = "ExamplePassword123"
+passwd = "AnotherExample123"
+pwd = "DummyPassword456"
+db_password = "DatabaseExample789"
+
+api_key = "EXAMPLE_API_KEY_123"
+apiKey = "EXAMPLE_CAMELCASE_KEY"
+client_secret = "EXAMPLE_CLIENT_SECRET"
+
+token = "EXAMPLE_TOKEN_123456"
+access_token = "EXAMPLE_ACCESS_TOKEN"
+refresh_token = "EXAMPLE_REFRESH_TOKEN"
+
+AWS_ACCESS_KEY_ID = "AKIAEXAMPLE123456789"
+
+github_token = "ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZ123456"
+
+-----BEGIN RSA PRIVATE KEY-----
+
+username = "admin"
+debug = True

@@ -1,0 +1,5 @@
+Filename,Line Number,Column,Secret Type,Matched String
+test_secrets.txt,5,1,Password,password = ********
+test_secrets.txt,6,1,API Key,api_key = ********
+test_secrets.txt,7,1,Token,token = ********
+test_secrets.txt,10,1,Private Key,[PRIVATE KEY DETECTED]
